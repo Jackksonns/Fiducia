@@ -142,4 +142,4 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-© 2025 Fiducia Alignment Team | Maintainer: Jackson KK ([your.email@example.com](mailto:your.email@example.com))
+© 2025 Fiducia Alignment Team | Maintainer: Jackson KK ([your.email@example.com](mailto:2963087383@qq.com))
