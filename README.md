@@ -38,18 +38,15 @@ Please cite the original work as follows:
 ```
 ---
 
----
 ## 🔧 Fine-Tuning Methodology
 
 Fiducia leverages Llama-Factory’s visual fine‑tuning interface to streamline the adaptation of LLaMA2-Chat-HF for credit scoring tasks. This approach enables:
 
-Intuitive Hyperparameter Adjustment: Researchers can interactively modify learning rates, LoRA rank, and regularization parameters via an integrated dashboard, promoting efficient experimentation.
+#Intuitive Hyperparameter Adjustment#: Researchers can interactively modify learning rates, LoRA rank, and regularization parameters via an integrated dashboard, promoting efficient experimentation.
 
-Real‑Time Training Visualization: Loss curves, metric trajectories, and attention pattern heatmaps are rendered live, facilitating rapid diagnostics and early stopping decisions.
+#Real‑Time Training Visualization#: Loss curves, metric trajectories, and attention pattern heatmaps are rendered live, facilitating rapid diagnostics and early stopping decisions.
 
-Seamless LoRA Integration: The platform automates low‑rank adaptation injection and merging workflows, ensuring consistent reproducibility and compliance with Meta’s open‑source requirements.
-
----
+#Seamless LoRA Integration#: The platform automates low‑rank adaptation injection and merging workflows, ensuring consistent reproducibility and compliance with Meta’s open‑source requirements.
 
 ---
 
