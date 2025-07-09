@@ -137,9 +137,9 @@ The following commands illustrate a typical end‑to‑end workflow. Adjust scri
 
 We evaluate Fiducia on both predictive performance and fairness metrics to ensure a balanced improvement:
 
-Performance Metrics (e.g., Accuracy, F1‑Score, MCC, Recall)
+* **Performance Metrics** (e.g., Accuracy, F1‑Score, MCC, Recall)
 
-Fairness Metrics (e.g., Equal Opportunity Difference, Average Odds Difference)
+* **Fairness Metrics** (e.g., Equal Opportunity Difference, Average Odds Difference)
 
 Across our mixed test set, Fiducia consistently outperforms the original CALM baseline on both fronts, demonstrating enhanced predictive accuracy while reducing fairness disparities.
 
