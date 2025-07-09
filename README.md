@@ -122,7 +122,7 @@ The following commands illustrate a typical end‑to‑end workflow. Adjust scri
 
 ---
 
-📈 Results and Evaluation
+## 📈 Results and Evaluation
 
 We evaluate Fiducia on both predictive performance and fairness metrics to ensure a balanced improvement:
 
