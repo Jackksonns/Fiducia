@@ -122,15 +122,15 @@ The following commands illustrate a typical end‑to‑end workflow. Adjust scri
 
 ---
 
-## 📈 Results and Evaluation
+📈 Results and Evaluation
 
-On our mixed test set, **Fiducia** achieves:
+We evaluate Fiducia on both predictive performance and fairness metrics to ensure a balanced improvement:
 
-* **Accuracy**: +1.5% over the original CALM implementation
-* **F1‑Score**: +2.0% enhancement
-* **Compliance Metrics**: Significant improvements in bias detection and feature impact auditability
+Performance Metrics (e.g., Accuracy, F1‑Score, MCC, Recall)
 
-See \[notebooks/benchmark\_results.ipynb] for detailed analysis.
+Fairness Metrics (e.g., Equal Opportunity Difference, Average Odds Difference)
+
+Across our mixed test set, Fiducia consistently outperforms the original CALM baseline on both fronts, demonstrating enhanced predictive accuracy while reducing fairness disparities.
 
 ---
 
