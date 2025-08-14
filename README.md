@@ -1,4 +1,7 @@
 # Fiducia
+
+[![GitHub](https://img.shields.io/badge/GitHub-Jackksonns-blue?style=flat-square&logo=github)](https://github.com/Jackksonns)
+
 Coming soon...
 ---
 
